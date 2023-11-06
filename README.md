@@ -1,6 +1,6 @@
 # Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | 2023
 
-![Cover Image](https://github.com/vamnguyen/AI-SaaS/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
+![Thumbnail](https://github.com/vamnguyen/AI-SaaS/assets/120087002/8a8eed08-6c0a-4f28-9766-7422e8e44601)
 
 This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | 2023.
 
